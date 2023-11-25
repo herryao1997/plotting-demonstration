@@ -1,0 +1,119 @@
+nohup: ignoring input
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-11-19 23:53:10,919 [   1729]   WARN - #c.i.o.v.i.l.NativeFileWatcherImpl - inotify_init: Too many open files
+2023-11-19 23:53:10,922 [   1732]   WARN - #c.i.o.v.i.l.NativeFileWatcherImpl - The <b>inotify</b>(7) instances limit reached. <a href="https://intellij.com/inotify-instances">More details.</a>
+2023-11-19 23:53:10,923 [   1733]   WARN - #c.i.o.v.i.l.FileWatcher - The <b>inotify</b>(7) instances limit reached. <a href="https://intellij.com/inotify-instances">More details.</a>
+2023-11-19 23:53:10,933 [   1743]   WARN - #c.i.o.v.i.l.FileWatcher - File watcher gave up to operate
+2023-11-19 23:53:11,313 [   2123]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Light - old: Light, new Light
+2023-11-19 23:53:11,398 [   2208]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-11-19 23:53:11,553 [   2363]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+
+2023-11-19 23:53:12,002 [   2812]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+Info  | RdCoroutineScope          | 58:DefaultDispatcher-worker-40 | RdCoroutineHost overridden 
+2023-11-19 23:53:14,626 [   5436]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-19 23:53:15,374 [   6184]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.openapi.projectRoots.Sdk
+2023-11-19 23:53:20,191 [  11001]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-19 23:53:20,191 [  11001]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+2023-11-19 23:53:40,283 [  31093]   WARN - #c.i.u.x.Binding - no accessors for java.time.LocalTime
+
+2023-11-19 23:53:40,439 [  31249]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-19 23:53:40,616 [  31426]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-19 23:53:46,095 [  36905]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-19 23:53:46,095 [  36905]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 00:06:32,720 [ 803530]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 00:06:32,824 [ 803634]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 00:06:38,259 [ 809069]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 00:06:38,260 [ 809070]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 00:10:17,440 [1028250]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 00:10:17,534 [1028344]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 00:10:22,890 [1033700]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 00:10:22,891 [1033701]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 00:15:53,515 [1364325]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 00:15:53,582 [1364392]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 00:15:58,962 [1369772]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 00:15:58,962 [1369772]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 00:28:26,359 [2117169]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 00:28:26,462 [2117272]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 00:28:31,842 [2122652]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 00:28:31,842 [2122652]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 00:31:39,291 [2310101]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 00:31:39,515 [2310325]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 00:31:44,855 [2315665]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 00:31:44,855 [2315665]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 08:21:56,533 [30527343]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 08:21:56,611 [30527421]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 08:22:01,984 [30532794]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 08:22:01,985 [30532795]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 08:24:41,296 [30692106]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 08:24:41,430 [30692240]   WARN - #kotlinx.coroutines.CoroutineScope - Cannot wait for a ready scroll pane, scroll now
+2023-11-20 08:24:41,460 [30692270]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 08:24:46,875 [30697685]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 08:24:46,875 [30697685]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 09:08:54,560 [33345370]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 09:08:54,657 [33345467]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 09:08:54,765 [33345575]   WARN - #kotlinx.coroutines.CoroutineScope - Cannot wait for a ready scroll pane, scroll now
+2023-11-20 09:09:00,045 [33350855]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 09:09:00,045 [33350855]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+2023-11-20 09:10:31,565 [33442375]   WARN - #c.j.p.d.p.MultiProcessDebugger - Accept timed out
+java.net.SocketTimeoutException: Accept timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedAccept(NioSocketImpl.java:708)
+	at java.base/sun.nio.ch.NioSocketImpl.accept(NioSocketImpl.java:752)
+	at java.base/java.net.ServerSocket.implAccept(ServerSocket.java:675)
+	at java.base/java.net.ServerSocket.platformImplAccept(ServerSocket.java:641)
+	at java.base/java.net.ServerSocket.implAccept(ServerSocket.java:617)
+	at java.base/java.net.ServerSocket.implAccept(ServerSocket.java:574)
+	at java.base/java.net.ServerSocket.accept(ServerSocket.java:532)
+	at com.jetbrains.python.debugger.pydev.transport.ServerModeDebuggerTransport.waitForConnect(ServerModeDebuggerTransport.java:39)
+	at com.jetbrains.python.debugger.pydev.RemoteDebugger.waitForConnect(RemoteDebugger.java:119)
+	at com.jetbrains.python.debugger.pydev.MultiProcessDebugger$DebuggerProcessAcceptor.run(MultiProcessDebugger.java:530)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:272)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:702)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:699)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:699)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-20 09:15:10,325 [33721135]   WARN - #c.j.p.d.p.MultiProcessDebugger - Socket closed
+java.net.SocketException: Socket closed
+	at java.base/sun.nio.ch.NioSocketImpl.endAccept(NioSocketImpl.java:689)
+	at java.base/sun.nio.ch.NioSocketImpl.accept(NioSocketImpl.java:762)
+	at java.base/java.net.ServerSocket.implAccept(ServerSocket.java:675)
+	at java.base/java.net.ServerSocket.platformImplAccept(ServerSocket.java:641)
+	at java.base/java.net.ServerSocket.implAccept(ServerSocket.java:617)
+	at java.base/java.net.ServerSocket.implAccept(ServerSocket.java:574)
+	at java.base/java.net.ServerSocket.accept(ServerSocket.java:532)
+	at com.jetbrains.python.debugger.pydev.transport.ServerModeDebuggerTransport.waitForConnect(ServerModeDebuggerTransport.java:39)
+	at com.jetbrains.python.debugger.pydev.RemoteDebugger.waitForConnect(RemoteDebugger.java:119)
+	at com.jetbrains.python.debugger.pydev.MultiProcessDebugger$DebuggerProcessAcceptor.run(MultiProcessDebugger.java:530)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:272)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:702)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:699)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:699)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2023-11-20 09:19:25,035 [33975845]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 09:19:25,202 [33976012]   WARN - #kotlinx.coroutines.CoroutineScope - Cannot wait for a ready scroll pane, scroll now
+2023-11-20 09:19:25,237 [33976047]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 09:19:30,625 [33981435]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 09:19:30,625 [33981435]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+
+2023-11-20 09:27:59,900 [34490710]   WARN - #c.i.o.w.i.c.h.t.MainMenuButton - rootPane is not set, MainMenu button listeners are not installed
+2023-11-20 09:28:00,031 [34490841]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-11-20 09:28:05,412 [34496222]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-11-20 09:28:05,413 [34496223]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
